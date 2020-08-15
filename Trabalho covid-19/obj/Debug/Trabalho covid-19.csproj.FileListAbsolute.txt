@@ -1,0 +1,32 @@
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\Trabalho covid-19.exe.config
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\Trabalho covid-19.exe
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\Trabalho covid-19.pdb
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho covid-19.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.FrmLerPaciente.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.Properties.Resources.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho covid-19.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho covid-19.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho covid-19.exe
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho covid-19.pdb
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.Principal.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.ucListarPacientes.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.FrmListarPacientes.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\x86\sqlite3.dll
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\x64\sqlite3.dll
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\System.Data.SQLite.xml
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho covid-19.csproj.CopyComplete
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\EntityFramework.dll
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\System.Data.SQLite.dll
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\EntityFramework.xml
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.ucListarObitos.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.FrmListarObitos.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.ucListarTestes.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.FrmListarTestes.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.FrmLerObitos.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.FrmLerTestes.resources
+C:\Users\erick\Desktop\Trabalho\Trabalho covid-19\obj\Debug\Trabalho_covid_19.FrmSplash.resources
